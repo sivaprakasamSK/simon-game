@@ -1,0 +1,103 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  background-color:#6C5CE7 ;
+}
+.clr{
+  background-color: #F2E8D4;
+}
+
+
+.container1,.container2{
+  margin: 0px;
+}
+.container1{
+  margin-top: 200px;
+}
+
+#red{
+  background-color: red;
+  margin-bottom: 0px;
+}
+#blue{
+  background-color: blue;
+  margin-top: 0px;
+}
+#deeppink{
+  background-color:deeppink;
+  margin-top: 0px;
+}
+#green{
+  background-color: green;
+  margin-bottom: 0px;
+}
+  
+
+.btn{
+  padding: 100px;
+  border-radius: 30%;
+  margin: 25px;
+  cursor: pointer;
+  border: none;
+}
+.btn:hover{
+  filter:opacity(50%);
+} 
+.btn:active{
+  transform: translateY(6px);
+} 
+.clicked{
+  transform: translateY(6px);
+  filter:opacity(50%);
+}
+
+.game-over{
+  background-color: darkred;
+}
+
+.text{
+  font-size: 5rem;
+  color:gold;
+}
+
+.hide{
+  display: none;
+}
+
+.text-align{
+  margin: 7% auto;
+  font-size: 6rem;
+  color: #F8F8F8;
+}
+img{
+  width: 20%;
+  height: 40%;
+}
+p{
+  font-size: 2rem;
+  color:#FFC048;
+}
+
+.font{
+  font-size: 100px;
+  margin: 0;
+  color:darkgoldenrod;
+}
+
+.cracker-element {
+  background-image: url("https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Fireworks/Fireworks_Tricolor_PNG_Transparent_Clipart.png?m=1610016166");
+  background-color: #F2E8D4;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.transparency{
+  filter:opacity(50%);
+}
+
+
+
+
+
